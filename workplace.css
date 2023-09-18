@@ -895,7 +895,7 @@ button.button-big.no-icon-button {
 	display: inline-block;
 	width: 15px;
 	height: 15px;
-	background-image: url('/moovapps/easysite-resources/skins/workplace/img/cross.svg');
+	background-image: url('easysite-resources/skins/workplace/img/cross.svg');
 	background-repeat: no-repeat;
 	background-size: 12px;
 	margin: 0px 2px -3px -3px;
@@ -3487,15 +3487,15 @@ select {
 }
 
 .table .sort-ascending {
-	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort-ascending.png)
+	background-image: url(easysite-resources/skins/workplace/img/i_sort-ascending.png)
 }
 
 .table .sort-descending {
-	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort-descending.png)
+	background-image: url(easysite-resources/skins/workplace/img/i_sort-descending.png)
 }
 
 .table .unsorted {
-	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort.png)
+	background-image: url(easysite-resources/skins/workplace/img/i_sort.png)
 }
 
 .table-view {
@@ -3873,7 +3873,7 @@ select {
 .popup-menu-handler.handler-row .button-imgr,
 .popup-menu-handler.handler-more .button-imgr {
 	position: relative;
-	background: url('/moovapps/easysite-resources/skins/workplace/img/puce-bottom.svg') no-repeat left center;
+	background: url('easysite-resources/skins/workplace/img/puce-bottom.svg') no-repeat left center;
 	z-index: 3
 }
 
@@ -5436,11 +5436,11 @@ header .pull-right .dropdown-actions-inner .button-area {
 }
 
 #btn-admin {
-	background-image: url('/moovapps/easysite-resources/skins/workplace/img/settings.svg');
+	background-image: url('easysite-resources/skins/workplace/img/settings.svg');
 }
 
 #btn-bell {
-	background-image: url('/moovapps/easysite-resources/skins/workplace/img/bell.svg');
+	background-image: url('easysite-resources/skins/workplace/img/bell.svg');
 }
 #btn-bell .notif {
 	position: absolute;
@@ -6578,7 +6578,7 @@ a.team-authentication-button {
 }
 
 .vui-selector-search-view .search-filter input {
-	background-image: url("/moovapps/easysite-resources/skins/workplace/img/filter.png")
+	background-image: url("easysite-resources/skins/workplace/img/filter.png")
 }
 
 .lightbox-panel .long-field {
@@ -10289,7 +10289,7 @@ input[type="radio"]+.reversed-radio {
 	display: block;
 	text-align: center;
 	padding: 185px 10px 10px 10px;
-	background: url("/moovapps/easysite-resources/skins/workplace/img/noelement.png") no-repeat center top
+	background: url("easysite-resources/skins/workplace/img/noelement.png") no-repeat center top
 }
 
 .quicksearch-item .search-result-inner {
@@ -12215,7 +12215,7 @@ input.search-input::placeholder {
 
 .vui-selector-filter-view .search-filter input,
 .vui-selector-basket .search-filter input {
-	background-image: url("/moovapps/easysite-resources/skins/workplace/img/filter.png")
+	background-image: url("easysite-resources/skins/workplace/img/filter.png")
 }
 
 .vui-selector-basket .location,
@@ -13324,13 +13324,13 @@ input.search-input::placeholder {
 	top: 4px;
 	left: 4px;
 	margin: 0;
-	background: transparent url(/moovapps/easysite-resources/skins/workplace/img/vui-delete.png) no-repeat center center;
+	background: transparent url(easysite-resources/skins/workplace/img/vui-delete.png) no-repeat center center;
 	transition: all ease-out 0.1s
 }
 
 .vui-combobox-single.vui-selector-field .vui-delete:hover,
 .vui-combobox.vui-combobox-single .vui-delete:hover {
-	background: transparent url(/moovapps/easysite-resources/skins/workplace/img/vui-delete-hover.png) no-repeat center center
+	background: transparent url(easysite-resources/skins/workplace/img/vui-delete-hover.png) no-repeat center center
 }
 
 li.action-showall {
@@ -13925,7 +13925,7 @@ li.action-showall {
 }
 
 .system-page .nothing-here {
-	background: url("/moovapps/easysite-resources/skins/workplace/img/noelement.png") no-repeat center center;
+	background: url("easysite-resources/skins/workplace/img/noelement.png") no-repeat center center;
 	height: 183px;
 	width: 206px;
 	display: block;
@@ -15833,7 +15833,7 @@ button.tile-help i {
 	font-weight: 300;
 	font-style: normal;
 	font-stretch: normal;
-	src: url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Light.ttf.woff2") format("woff2"), url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Light.otf.woff") format("woff")
+	src: url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Light.ttf.woff2") format("woff2"), url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Light.otf.woff") format("woff")
 }
 
 @font-face {
@@ -15841,7 +15841,7 @@ button.tile-help i {
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
-	src: url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Regular.ttf.woff2") format("woff2"), url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Regular.otf.woff") format("woff")
+	src: url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Regular.ttf.woff2") format("woff2"), url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Regular.otf.woff") format("woff")
 }
 
 @font-face {
@@ -15849,7 +15849,7 @@ button.tile-help i {
 	font-weight: 700;
 	font-style: normal;
 	font-stretch: normal;
-	src: url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Bold.ttf.woff2") format("woff2"), url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Bold.otf.woff") format("woff")
+	src: url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Bold.ttf.woff2") format("woff2"), url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Bold.otf.woff") format("woff")
 }
 
 @font-face {
@@ -15857,13 +15857,13 @@ button.tile-help i {
 	font-weight: 900;
 	font-style: normal;
 	font-stretch: normal;
-	src: url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Black.ttf.woff2") format("woff2"), url("/moovapps/easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Black.otf.woff") format("woff")
+	src: url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Black.ttf.woff2") format("woff2"), url("easysite-resources/skins/workplace/fonts/source-sans-pro/SourceSansPro-Black.otf.woff") format("woff")
 }
 
 
 @font-face {
 	font-family: "futura-pt";
-	src: url("/moovapps/easysite-resources/skins/workplace/fonts/futura-pt.woff2") format("woff2"), url("/moovapps/easysite-resources/skins/workplace/fonts/futura-pt.woff") format("woff"), url("/moovapps/easysite-resources/skins/workplace/fonts/futura-pt.opentype") format("opentype");
+	src: url("easysite-resources/skins/workplace/fonts/futura-pt.woff2") format("woff2"), url("easysite-resources/skins/workplace/fonts/futura-pt.woff") format("woff"), url("easysite-resources/skins/workplace/fonts/futura-pt.opentype") format("opentype");
 	font-display: auto;
 	font-style: normal;
 	font-weight: 500;
@@ -16050,7 +16050,7 @@ h6 {
 
 .user-profil .user-panel-right:after {
 	content: '';
-	background: url(/moovapps/easysite-resources/skins/workplace/img/plante.png) no-repeat;
+	background: url(easysite-resources/skins/workplace/img/plante.png) no-repeat;
 	width: 77px;
 	height: 96px;
 	position: absolute;
@@ -17308,7 +17308,7 @@ div.ipoplan #thematics {
 	left: 0;
 	width: 20px;
 	height: 20px;
-	background-image: url("/moovapps/easysite-resources/skins/workplace/img/delete.svg");
+	background-image: url("easysite-resources/skins/workplace/img/delete.svg");
 	background-repeat: no-repeat;
 	background-size: 20px;
 }
@@ -17325,7 +17325,7 @@ div.ipoplan #thematics {
 	left: 0;
 	width: 20px;
 	height: 20px;
-	background-image: url("/moovapps/easysite-resources/skins/workplace/img/import.svg");
+	background-image: url("easysite-resources/skins/workplace/img/import.svg");
 	background-repeat: no-repeat;
 	background-size: 20px;
 }
@@ -17359,7 +17359,7 @@ div.ipoplan #thematics {
 }
 
 .elfinder-cwd-icon-directory {
-	background-image: url(/moovapps/easysite-resources/skins/workplace/img/picto-file.png) !important;
+	background-image: url(easysite-resources/skins/workplace/img/picto-file.png) !important;
 	background-size: contain !important;
 }
 
@@ -17415,7 +17415,7 @@ div.ipoplan #thematics {
 
 .sidebar-link:after{
 	content: '';
-	background-image: url("/moovapps/easysite-resources/skins/workplace/img/arrow-right.svg");
+	background-image: url("easysite-resources/skins/workplace/img/arrow-right.svg");
 	position: absolute;
 	top: 50%;
 	right: -100px;
@@ -17799,7 +17799,7 @@ td.demodocs > input {
 	width: 6px;
 	height: 10px;
 	margin: 5px 0 0 0;
-	background-image: url('/moovapps/easysite-resources/skins/workplace/img/arrow-right.svg');
+	background-image: url('easysite-resources/skins/workplace/img/arrow-right.svg');
 	transition: right 0.3s;
 }
 
@@ -17833,7 +17833,7 @@ td.demodocs > input {
 
 .col-ressources:after{
 	content: '';
-	background: url("/moovapps/easysite-resources/skins/workplace/img/illustration-ressources-juridiques.svg") no-repeat;
+	background: url("easysite-resources/skins/workplace/img/illustration-ressources-juridiques.svg") no-repeat;
 	width:264px ;
 	height:127px ;
 	position: absolute;
@@ -17880,7 +17880,7 @@ td.demodocs > input {
 	width: 14px;
 	height: 17px;
 	margin-right: 10px;
-	background-image: url('/moovapps/easysite-resources/skins/workplace/img/pdf-file.svg');
+	background-image: url('easysite-resources/skins/workplace/img/pdf-file.svg');
 	background-repeat: no-repeat;
 }
 
