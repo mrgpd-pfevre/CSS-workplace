@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="34.25" viewBox="0 0 31 34.25">
+  <g id="illus" transform="translate(-552 -646.75)">
+    <ellipse id="shadow" cx="15.5" cy="4" rx="15.5" ry="4" transform="translate(552 673)" fill="#f0efff"/>
+    <path id="Icon_ionic-md-information-circle" data-name="Icon ionic-md-information-circle" d="M18,3.375A14.625,14.625,0,1,0,32.625,18,14.632,14.632,0,0,0,18,3.375Zm1.477,21.938H16.523V16.523h2.953Zm0-11.672H16.523V10.688h2.953Z" transform="translate(549.5 643.375)" fill="#0095D1"/>
+  </g>
+</svg>

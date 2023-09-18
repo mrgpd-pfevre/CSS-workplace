@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="38" viewBox="0 0 222 38">
+  <g id="Groupe_55" data-name="Groupe 55" transform="translate(-1255 -1403)">
+    <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(1255 1403)" fill="#1685bd" stroke="#9ddbc4" stroke-width="1">
+      <rect width="222" height="38" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="221" height="37" rx="4.5" fill="none"/>
+    </g>
+    <text id="Mon_portail_client" data-name="Mon portail client" transform="translate(1304 1429)" fill="#fff" font-size="14" font-family="Verdana, Geneva, sans-serif" style="letter-spacing : 1px;"><tspan x="-10" y="-1">Mon portail client</tspan></text>
+  </g>
+</svg>

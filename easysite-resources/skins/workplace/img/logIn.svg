@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="38" viewBox="0 0 109 38">
+  <g id="Groupe_56" data-name="Groupe 56" transform="translate(-1310 -1403)">
+    <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(1310 1403)" fill="#9ddbc4" stroke="#9ddbc4" stroke-width="1">
+      <rect width="109" height="38" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="108" height="37" rx="4.5" fill="none"/>
+    </g>
+    <text id="Login" transform="translate(1332.489 1427)" fill="#fff" font-size="18" font-family="FuturaPT-Book, Futura PT"><tspan x="0" y="0">Login</tspan></text>
+    <g id="Icon_feather-external-link" data-name="Icon feather-external-link" transform="translate(1383.761 1409.375)">
+      <path id="Tracé_376" data-name="Tracé 376" d="M18.042,15.32v5.417a1.806,1.806,0,0,1-1.806,1.806H6.306A1.806,1.806,0,0,1,4.5,20.736V10.806A1.806,1.806,0,0,1,6.306,9h5.417" transform="translate(0 -1.792)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_377" data-name="Tracé 377" d="M22.5,4.5h5.417V9.917" transform="translate(-7.166)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_378" data-name="Tracé 378" d="M15,14.431,24.931,4.5" transform="translate(-4.18)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

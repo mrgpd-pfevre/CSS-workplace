@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="33" viewBox="0 0 31 33">
+  <g id="illus" transform="translate(-552 -648)">
+    <ellipse id="shadow" cx="15.5" cy="4" rx="15.5" ry="4" transform="translate(552 673)" fill="#f0efff"/>
+    <path id="Icon_material-delete" data-name="Icon material-delete" d="M9,28.5a3.009,3.009,0,0,0,3,3H24a3.009,3.009,0,0,0,3-3v-18H9ZM28.5,6H23.25l-1.5-1.5h-7.5L12.75,6H7.5V9h21Z" transform="translate(550 643.5)" fill="#0095D1"/>
+  </g>
+</svg>
