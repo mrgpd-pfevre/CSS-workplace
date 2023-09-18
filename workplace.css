@@ -895,7 +895,7 @@ button.button-big.no-icon-button {
 	display: inline-block;
 	width: 15px;
 	height: 15px;
-	background-image: url('../img/cross.svg');
+	background-image: url('/moovapps/easysite-resources/skins/workplace/img/cross.svg');
 	background-repeat: no-repeat;
 	background-size: 12px;
 	margin: 0px 2px -3px -3px;
@@ -3873,7 +3873,7 @@ select {
 .popup-menu-handler.handler-row .button-imgr,
 .popup-menu-handler.handler-more .button-imgr {
 	position: relative;
-	background: url(../img/puce-bottom.svg) no-repeat left center;
+	background: url('/moovapps/easysite-resources/skins/workplace/img/puce-bottom.svg') no-repeat left center;
 	z-index: 3
 }
 
@@ -5436,11 +5436,11 @@ header .pull-right .dropdown-actions-inner .button-area {
 }
 
 #btn-admin {
-	background-image: url('../img/settings.svg');
+	background-image: url('/moovapps/easysite-resources/skins/workplace/img/settings.svg');
 }
 
 #btn-bell {
-	background-image: url('../img/bell.svg');
+	background-image: url('/moovapps/easysite-resources/skins/workplace/img/bell.svg');
 }
 #btn-bell .notif {
 	position: absolute;
@@ -17308,7 +17308,7 @@ div.ipoplan #thematics {
 	left: 0;
 	width: 20px;
 	height: 20px;
-	background-image: url("../img/delete.svg");
+	background-image: url("/moovapps/easysite-resources/skins/workplace/img/delete.svg");
 	background-repeat: no-repeat;
 	background-size: 20px;
 }
@@ -17325,7 +17325,7 @@ div.ipoplan #thematics {
 	left: 0;
 	width: 20px;
 	height: 20px;
-	background-image: url("../img/import.svg");
+	background-image: url("/moovapps/easysite-resources/skins/workplace/img/import.svg");
 	background-repeat: no-repeat;
 	background-size: 20px;
 }
@@ -17415,7 +17415,7 @@ div.ipoplan #thematics {
 
 .sidebar-link:after{
 	content: '';
-	background-image: url("../img/arrow-right.svg");
+	background-image: url("/moovapps/easysite-resources/skins/workplace/img/arrow-right.svg");
 	position: absolute;
 	top: 50%;
 	right: -100px;
@@ -17799,7 +17799,7 @@ td.demodocs > input {
 	width: 6px;
 	height: 10px;
 	margin: 5px 0 0 0;
-	background-image: url('../img/arrow-right.svg');
+	background-image: url('/moovapps/easysite-resources/skins/workplace/img/arrow-right.svg');
 	transition: right 0.3s;
 }
 
@@ -17833,7 +17833,7 @@ td.demodocs > input {
 
 .col-ressources:after{
 	content: '';
-	background: url("../img/illustration-ressources-juridiques.svg") no-repeat;
+	background: url("/moovapps/easysite-resources/skins/workplace/img/illustration-ressources-juridiques.svg") no-repeat;
 	width:264px ;
 	height:127px ;
 	position: absolute;
