@@ -3487,15 +3487,15 @@ select {
 }
 
 .table .sort-ascending {
-	background-image: url(../img/i_sort-ascending.png)
+	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort-ascending.png)
 }
 
 .table .sort-descending {
-	background-image: url(../img/i_sort-descending.png)
+	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort-descending.png)
 }
 
 .table .unsorted {
-	background-image: url(../img/i_sort.png)
+	background-image: url(/moovapps/easysite-resources/skins/workplace/img/i_sort.png)
 }
 
 .table-view {
@@ -6578,7 +6578,7 @@ a.team-authentication-button {
 }
 
 .vui-selector-search-view .search-filter input {
-	background-image: url("../img/filter.png")
+	background-image: url("/moovapps/easysite-resources/skins/workplace/img/filter.png")
 }
 
 .lightbox-panel .long-field {
@@ -10289,7 +10289,7 @@ input[type="radio"]+.reversed-radio {
 	display: block;
 	text-align: center;
 	padding: 185px 10px 10px 10px;
-	background: url("../img/noelement.png") no-repeat center top
+	background: url("/moovapps/easysite-resources/skins/workplace/img/noelement.png") no-repeat center top
 }
 
 .quicksearch-item .search-result-inner {
@@ -12215,7 +12215,7 @@ input.search-input::placeholder {
 
 .vui-selector-filter-view .search-filter input,
 .vui-selector-basket .search-filter input {
-	background-image: url("../img/filter.png")
+	background-image: url("/moovapps/easysite-resources/skins/workplace/img/filter.png")
 }
 
 .vui-selector-basket .location,
@@ -13324,13 +13324,13 @@ input.search-input::placeholder {
 	top: 4px;
 	left: 4px;
 	margin: 0;
-	background: transparent url(../img/vui-delete.png) no-repeat center center;
+	background: transparent url(/moovapps/easysite-resources/skins/workplace/img/vui-delete.png) no-repeat center center;
 	transition: all ease-out 0.1s
 }
 
 .vui-combobox-single.vui-selector-field .vui-delete:hover,
 .vui-combobox.vui-combobox-single .vui-delete:hover {
-	background: transparent url(../img/vui-delete-hover.png) no-repeat center center
+	background: transparent url(/moovapps/easysite-resources/skins/workplace/img/vui-delete-hover.png) no-repeat center center
 }
 
 li.action-showall {
@@ -13925,7 +13925,7 @@ li.action-showall {
 }
 
 .system-page .nothing-here {
-	background: url("../img/noelement.png") no-repeat center center;
+	background: url("/moovapps/easysite-resources/skins/workplace/img/noelement.png") no-repeat center center;
 	height: 183px;
 	width: 206px;
 	display: block;
@@ -16050,7 +16050,7 @@ h6 {
 
 .user-profil .user-panel-right:after {
 	content: '';
-	background: url(../img/plante.png) no-repeat;
+	background: url(/moovapps/easysite-resources/skins/workplace/img/plante.png) no-repeat;
 	width: 77px;
 	height: 96px;
 	position: absolute;
@@ -17359,7 +17359,7 @@ div.ipoplan #thematics {
 }
 
 .elfinder-cwd-icon-directory {
-	background-image: url(../img/picto-file.png) !important;
+	background-image: url(/moovapps/easysite-resources/skins/workplace/img/picto-file.png) !important;
 	background-size: contain !important;
 }
 
