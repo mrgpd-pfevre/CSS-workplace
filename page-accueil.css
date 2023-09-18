@@ -278,28 +278,28 @@ div.indicator strong {
 
 
 #categ-home {
-    background-image: url("../img/menu_dashboard.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_dashboard.svg");
 }
 #categ-conformite {
-    background-image: url("../img/menu_conformity.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_conformity.svg");
 }
 #categ-activite {
-    background-image: url("../img/menu_activite.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_activite.svg");
 }
 #categ-ressources {
-    background-image: url("../img/menu_ressources.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_ressources.svg");
 }
 #categ-admin {
-    background-image: url("../img/menu_admin.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_admin.svg");
 }
 #categ-orgas {
-    background-image: url("../img/menu_orgas.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_orgas.svg");
 }
 #categ-stats {
-    background-image: url("../img/menu_stats.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_stats.svg");
 }
 #categ-rdv-expert-RGPD {
-    background-image: url("../img/menu_rdv_expert_RGPD.png");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/menu_rdv_expert_RGPD.png");
 }
 /* Menu mini */
 
@@ -321,7 +321,7 @@ div.indicator strong {
     top: 19px;
     width: 25px;
     height: 12px;
-    background-image: url(../img/arrow-menu.svg);
+    background-image: url(/moovapps/easysite-resources/skins/workplace/img/arrow-menu.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -351,7 +351,7 @@ div.indicator strong {
     width: 50px;
     height: 60px;
     padding: 0;
-    background-image: url('../img/logo-solo.png');
+    background-image: url('/moovapps/easysite-resources/skins/workplace/img/logo-solo.png');
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: 5px 10px;
@@ -721,13 +721,13 @@ div.indicator strong {
     right: 26%;
     width: 120px;
     height: 200px;
-    /*background-image: url('../img/bonhomme.png');*/
+    /*background-image: url('/moovapps/easysite-resources/skins/workplace/img/bonhomme.png');*/
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .imgbandeau.bandeau3:after {/*
-    background-image: url('../img/bonhomme.png');*/
+    background-image: url('/moovapps/easysite-resources/skins/workplace/img/bonhomme.png');*/
     top: 4px;
 }
 
@@ -1003,7 +1003,7 @@ button {
     display: inline-block;
     vertical-align: middle;
     margin: -3px 5px 0 -2px;
-    background-image: url('../img/save.svg');
+    background-image: url('/moovapps/easysite-resources/skins/workplace/img/save.svg');
     background-repeat: no-repeat;
     width: 15px;
     height: 15px;
@@ -1149,7 +1149,7 @@ a:focus {
     left: 0;
     width: 20px;
     height: 20px;
-    background-image: url("../img/filter.svg");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/filter.svg");
     background-repeat: no-repeat;
     background-size: 20px;
 }
@@ -1545,7 +1545,7 @@ html body div.root div.page div#home header#header.header.self-clear.lg-fr div.p
 }
 
 #img_logo_rdv_expert_RGPD{
-    background-image: url("../img/bonhomme_rdv_expert_RGPD.png");
+    background-image: url("/moovapps/easysite-resources/skins/workplace/img/bonhomme_rdv_expert_RGPD.png");
 }
 
 .header #categ-rdv-expert-RGPD{
